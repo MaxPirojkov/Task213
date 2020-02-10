@@ -18,7 +18,7 @@
         android:id="@+id/startDateCalendar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="0.5"
+        android:layout_weight="0"
         android:layout_margin="16dp" />
 
     <Button
@@ -32,7 +32,7 @@
         android:id="@+id/endtDateCalendar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="0.5"
+        android:layout_weight="0"
         android:background="#E2E2E2"/>
     <Button
         android:id="@+id/btnOK"
